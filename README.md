@@ -1,2 +1,2 @@
-# Gobers-Tinkerpad
-macropad wowie!
+# Gober's Tinkerpad
+wowow very computer
