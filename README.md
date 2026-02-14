@@ -9,6 +9,7 @@ I got a bit of help from my friend setting up the schematic. I wanted a LOT of b
 
 # PCB
 The PCB is sort of crowded since I designed a case for my first attempt and had to restart multiple times. I didn't want to redo the case.
+
 ![PCB for Gober's Tinkerpad.](Assets/pcb.png)
 
 # CAD
