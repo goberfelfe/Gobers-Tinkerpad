@@ -17,7 +17,7 @@ Here is the case for the macropad. Yes, I know the model looks ugly.
 ![Case for Gober's Tinkerpad.](Assets/case2.png)
 
 # Firmware
-I haven't started the firmware yet, but I will use QMK or kmk depending on if my computer supports virtualization or not.
+I haven't started the firmware yet, but I will use kmk.
 
 # BOM
 Materials I used:
