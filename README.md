@@ -5,15 +5,15 @@ My Hackpad submission!
 This is my first hardware project, and it took me WEEKS to finish because I had absolutely no idea what I was doing. I had to restart so many times I almost gave up, but here we are!
 # Schematic
 I got a bit of help from my friend setting up the schematic. I wanted a LOT of buttons, and I had no idea how to make a matrix. it all worked out (hopefully!)
-![Schematic for Gober's Tinkerpad.](Assets/images/schematic.png)
+![Schematic for Gober's Tinkerpad.](Assets/schematic.png)
 
 # PCB
 The PCB is sort of crowded since I designed a case for my first attempt and had to restart multiple times. I didn't want to redo the case.
-![PCB for Gober's Tinkerpad.](Assets/images/pcb.png)
+![PCB for Gober's Tinkerpad.](Assets/pcb.png)
 
 # CAD
 Here is the case for the macropad. Yes, I know the model looks ugly.
-![Case for Gober's Tinkerpad.](Assets/images/case.png)
+![Case for Gober's Tinkerpad.](Assets/case.png)
 
 # Firmware
 I haven't started the firmware yet, but I will use QMK or kmk depending on if my computer supports virtualization or not.
