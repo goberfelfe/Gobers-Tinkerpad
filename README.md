@@ -1,10 +1,26 @@
-# Gober's Tinkerpad (WIP)
+# Gober's Tinkerpad
 My Hackpad submission!
 
-# Purpose
-I designed this macropad to make my life easier. I do digital art and I want to keep the tablet pen in my hand while putting in keyboard shortcuts, but I push my keyboard against my computer to make room for my drawing tablet, making my wrist uncomfortable. The controls on my drawing tablet are HORRIBLE, and its driver made my computer lag. (hooray for intel celeron!)
-I didn't just make this macropad for drawing, it'll have many other uses soon.
+# About
+This is my first hardware project, and it took me WEEKS to finish because I had absolutely no idea what I was doing. I had to restart so many times I almost gave up, but here we are!
 # Schematic
-
+I got a bit of help from my friend setting up the schematic. I wanted a LOT of buttons, and I had no idea how to make a matrix. it all worked out (hopefully!)
+![Schematic for Gober's Tinkerpad.](assets/images/schematic.png)
 
 # PCB
+The PCB is sort of crowded since I designed a case for my first attempt and had to restart multiple times. I didn't want to redo the case.
+![PCB for Gober's Tinkerpad.](assets/images/pcb.png)
+
+# Firmware
+I haven't started the firmware yet, but I will use QMK or kmk depending on if my computer supports virtualization or not.
+
+# BOM
+Materials I used:
+16x Cherry MX switches
+1x 125x30 OLED display
+1x Xiao RP2040
+16x 1N4148 Diodes
+1x 3D printed case
+
+# Credits
+Thanks to @thegreatmewer, DigiKey's youtube channel, and the Hack Club Slack for helping me out!
