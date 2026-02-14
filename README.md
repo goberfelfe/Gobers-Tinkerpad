@@ -13,7 +13,7 @@ The PCB is sort of crowded since I designed a case for my first attempt and had 
 ![PCB for Gober's Tinkerpad.](Assets/pcb.png)
 
 # CAD
-Here is the case for the macropad. Yes, I know the model looks ugly.
+Here is the case for the macropad. I used Onshape to model it. You can open the Onshape link [here!](https://cad.onshape.com/documents/7796dfcd00a07795a78ec31b/w/0ed4cf9bd7f3ab11e0fad6be/e/e728a85e1773e941bd02e0bb?renderMode=0&uiState=6990dc6ff47d5361c8731e43)
 ![Case for Gober's Tinkerpad.](Assets/case2.png)
 
 # Firmware
