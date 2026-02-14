@@ -17,7 +17,7 @@ Here is the case for the macropad. Yes, I know the model looks ugly.
 ![Case for Gober's Tinkerpad.](Assets/case2.png)
 
 # Firmware
-I haven't started the firmware yet, but I will use kmk.
+I used kmk for the firmware. The oled displays what mode you're using when you change it, and any other buttons show a silly Gober face. There is also an idle animation.
 
 # BOM
 Materials I used:
