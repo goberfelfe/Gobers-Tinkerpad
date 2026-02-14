@@ -17,7 +17,7 @@ I haven't started the firmware yet, but I will use QMK or kmk depending on if my
 # BOM
 Materials I used:
 - 16x Cherry MX switches
-- 1x 125x30 OLED display
+- 1x 0.91 inch OLED display
 - 1x Xiao RP2040
 - 16x 1N4148 Diodes
 - 1x 3D printed case
