@@ -16,11 +16,11 @@ I haven't started the firmware yet, but I will use QMK or kmk depending on if my
 
 # BOM
 Materials I used:
-16x Cherry MX switches
-1x 125x30 OLED display
-1x Xiao RP2040
-16x 1N4148 Diodes
-1x 3D printed case
+-16x Cherry MX switches
+-1x 125x30 OLED display
+-1x Xiao RP2040
+-16x 1N4148 Diodes
+-1x 3D printed case
 
 # Credits
 Thanks to [Thegreatmewer](https://github.com/Thegreatmewer), [this video by Digikey](https://youtu.be/WU59DkI3BpQ), and the Hack Club Slack for helping me out!
