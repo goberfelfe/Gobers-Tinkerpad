@@ -23,4 +23,4 @@ Materials I used:
 1x 3D printed case
 
 # Credits
-Thanks to [Thegreatmewer](https://github.com/Thegreatmewer), DigiKey's youtube channel, and the Hack Club Slack for helping me out!
+Thanks to [Thegreatmewer](https://github.com/Thegreatmewer), [this video by Digikey](https://youtu.be/WU59DkI3BpQ), and the Hack Club Slack for helping me out!
