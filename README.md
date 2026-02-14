@@ -13,7 +13,7 @@ The PCB is sort of crowded since I designed a case for my first attempt and had 
 
 # CAD
 Here is the case for the macropad. Yes, I know the model looks ugly.
-![Case for Gober's Tinkerpad.](Assets/case1.png)
+![Case for Gober's Tinkerpad.](Assets/case2.png)
 
 # Firmware
 I haven't started the firmware yet, but I will use QMK or kmk depending on if my computer supports virtualization or not.
